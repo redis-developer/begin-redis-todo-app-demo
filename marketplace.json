@@ -4,8 +4,8 @@
   "type": "Building Block",
   "contributed_by": "Community",
   "repo_url": "https://github.com/redis-developer/begin-redis-todo-app-demo",
-  "preview_image_url": "https://raw.githubusercontent.com/redis-developer/begin-redis-todo-app-demo/master/app_preview_image.png",
-  "download_url": "https://github.com/redis-developer/begin-redis-todo-app-demo/archive/refs/heads/master.zip",
+  "preview_image_url": "https://raw.githubusercontent.com/redis-developer/begin-redis-todo-app-demo/main/app_preview_image.png",
+  "download_url": "https://github.com/redis-developer/begin-redis-todo-app-demo/archive/refs/heads/main.zip",
   "hosted_url": "",
   "quick_deploy": "false",
   "deploy_buttons": [],
@@ -27,5 +27,5 @@
   "verticals": [
     "Others"
   ],
-  "markdown": "https://raw.githubusercontent.com/redis-developer/begin-redis-todo-app-demo/master/README.md"
+  "markdown": "https://raw.githubusercontent.com/redis-developer/begin-redis-todo-app-demo/main/README.md"
 }
