@@ -1,5 +1,7 @@
 A super simple Begin CRUD(Create Read Update Delete) app that exemplifies a basic todo app that uses one static html page and four API endpoints that connect to a Redis database.
 
+![Make a post](https://raw.githubusercontent.com/redis-developer/begin-redis-todo-app-demo/master/todoapp.png)
+
 # Prerequisites
 
 1. Follow [this tutorial](https://developer.redis.com/create/aws/redis-on-aws) to sign up for a free Redis Enterprise Cloud account.
