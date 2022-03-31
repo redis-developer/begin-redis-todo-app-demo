@@ -12,9 +12,7 @@
   "language": [
     "JavaScript"
   ],
-  "redis_commands": [
-    "HGETALL",
-  ],
+  "redis_commands": [],
   "redis_features": [
     "Caching"
   ],
