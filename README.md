@@ -208,6 +208,7 @@ Since we are using the arc.http.async helper function we can use some shortcuts 
 
 ## Reference
 
+- [Building Functional Web Apps with Redis](https://blog.begin.com/posts/2022-03-24-building-functional-web-apps-with-redis)
 - [Quickstart](https://docs.begin.com/en/guides/quickstart/) - basics on working locally, project structure, deploying, and accessing your Begin app
 - [Creating new routes](https://docs.begin.com/en/functions/creating-new-functions) - basics on expanding the capabilities of your app
 
