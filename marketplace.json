@@ -13,10 +13,10 @@
     "JavaScript"
   ],
   "redis_commands": [],
-  "redis_features": [
+  "redis_use_cases": [
     "Caching"
   ],
-  "redis_modules": [],
+  "redis_features": [],
   "app_image_urls": [],
   "youtube_url": "",
   "special_tags": [
